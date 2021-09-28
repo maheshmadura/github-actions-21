@@ -1,4 +1,4 @@
-##### build the project-github
+##### build the project-github.
 
     ./gradlew build
 
